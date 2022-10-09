@@ -42,7 +42,7 @@ border: 1px solid white;
 #home{
 display: flex;
 flex-direction: column;
-	background: url("images/20221008_200755.jpg") center center/cover;
+	background: url("20221008_200755.jpg") center center/cover;
 	height: 830px;
 	justify-content: center;
 	align-items:center;
